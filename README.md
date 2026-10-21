@@ -1,4 +1,6 @@
-# Browservice: Browser as a Service
+# Archive only as the upstream has gone stale.
+
+## Browservice: Browser as a Service
 
 ## ⚠️ UNMAINTAINED (2026-09-11)
 
